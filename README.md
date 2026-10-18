@@ -18,6 +18,12 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## About Me
-Hi there,'m Ilham, Enthusiastic recent graduate of Agricultural and Biosystems Engineering from Brawijaya University, with a passion for data analytics and business analytics. 
+Hi, I'm Ilham Rhamadan, a Production Supervisor in the FMCG manufacturing industry with a Bachelor's degree in Agricultural and Biosystems Engineering from Brawijaya University.
+
+My professional experience in manufacturing has sparked my interest in data analytics and data-driven decision-making, particularly in production performance, operational efficiency, and continuous improvement.
+
+Currently, I'm expanding my skills in SQL, data analytics, and data warehousing, with a focus on transforming raw data into meaningful business insights. Through this portfolio, I aim to combine my hands-on manufacturing experience with analytical skills to solve real-world business problems and support better decision-making.
+
+I'm passionate about continuous learning and exploring opportunities at the intersection of manufacturing, data, and technology.
 
 Excited to apply my expertise in data-driven insights to make a positive impact in a professional environment. Let's connect and explore how we can collaborate!
